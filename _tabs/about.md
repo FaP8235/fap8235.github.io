@@ -3,12 +3,16 @@ title: 关于
 icon: fas fa-info
 order: 4
 ---
-- ### Hi there 👋, I'm FaP!
+- ### 你好，看这里看这里！！！👋, 我是剑封余华，也是FaP!
 
-  - 🏫  _B.E in SoftWare Engineering_.
-  - 💻  I work on C / C++ / Java / Objective-C & Python / Markdown.
-  - 🧠  I'm currently a student at Chengdu, SWUN
-  - 🏖️  I will go to Zhejiang and study as a postgraduate student at ZJU.
+  - 🏫  我目前就读于西南民族大学的**软件工程**专业
+  - 💻  我擅长使用C++/Java/Python等多种语言，喜欢用Markdown做笔记
+  - 🧠  我现在在学习用Flask框架搭建项目，同时学习C++游戏开发
+  - 🏖️  未来我想成为一名游戏开发师或Python工程师，我还想考浙大！！！
 
-Contact me with _QQ_: 1270488040 
+你可以通过以下方式联系我：
+
+_QQ：1270488040_
+
+_Email：1270488040@qq.com_ 
 
