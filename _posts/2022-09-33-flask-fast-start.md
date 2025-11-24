@@ -74,7 +74,7 @@ pipenv install
 
 出现这样的内容就成功了：
 
-![](./assets/blog_res/屏幕截图 2022-09-23 143552.png)
+![](assets/blog_res/屏幕截图 2022-09-23 143552.png)
 
 
 
@@ -86,7 +86,7 @@ pipenv shell
 
 出现以下就成功了：
 
-![](./assets/blog_res/屏幕截图 2022-09-23 143722.png)
+![](assets/blog_res/屏幕截图 2022-09-23 143722.png)
 
 
 
@@ -164,7 +164,7 @@ flask run
 
 出现这个界面就成功了：
 
-![](./assets/blog_res/屏幕截图 2022-09-23 150203.png)
+![](assets/blog_res/屏幕截图 2022-09-23 150203.png)
 
 可以看到这样一句话：
 
@@ -174,7 +174,7 @@ Running on http://127.0.0.1:5000
 
 这就是告诉你，你的代码已经生成了一个网页，我们将**http://127.0.0.1:5000**复制到浏览器的“**输入网址**”中，就可以看到我们的成果了：
 
-<img src="./assets/blog_res/屏幕截图 2022-09-23 150436.png" style="zoom: 33%;" />
+<img src="assets/blog_res/屏幕截图 2022-09-23 150436.png" style="zoom: 33%;" />
 
 这是怎么实现的呢？我们回过来先解读下代码：
 ```python
